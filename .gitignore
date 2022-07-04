@@ -12,3 +12,7 @@ Management/*
 STEP/*.sldprt
 STEP/*/*.sldprt
 *-Copy.dblib
+*.Zip
+Celestial Altium Library*.DbLib
+*_loc
+altiumlibrary.com.DbLib
